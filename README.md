@@ -14,5 +14,5 @@ hosted version: https://reverbdesigns.github.io/bcs-quiz-game/
 
 git repo: https://github.com/ReverbDesigns/bcs-quiz-game.git
 
- ![index screenshot](./assets/images/index1.png)
+ ![index screenshot](./assets/index1.png)
 
