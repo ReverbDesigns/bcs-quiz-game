@@ -1,19 +1,18 @@
-Password Generator assignment 3 BCS
+Coding Quiz game
 
 Meets all criteria
 
 i.e.
 
-You will be selecting which criteria to include in the password.
+75 seconds to test your skills, 
 
-You will be selecting the length of the password.
+answer multiple choice questions, 
 
-You may choose lowercase, uppercase, numeric, and/or special characters.
-
-You will be selecting the length of the password.
+and try and achieve the highscore.
 
 hosted version: https://reverbdesigns.github.io/passwordgen
 
 git repo: https://github.com/ReverbDesigns/passwordgen.git
 
  ![index screenshot](./assets/images/index1.png)
+
