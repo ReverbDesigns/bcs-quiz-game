@@ -10,9 +10,9 @@ answer multiple choice questions,
 
 and try and achieve the highscore.
 
-hosted version: https://reverbdesigns.github.io/passwordgen
+hosted version: https://reverbdesigns.github.io/bcs-quiz-game/
 
-git repo: https://github.com/ReverbDesigns/passwordgen.git
+git repo: https://github.com/ReverbDesigns/bcs-quiz-game.git
 
  ![index screenshot](./assets/images/index1.png)
 
